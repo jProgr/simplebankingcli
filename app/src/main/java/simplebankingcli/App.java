@@ -1,6 +1,7 @@
 package simplebankingcli;
 
 import java.util.Scanner;
+import simplebankingcli.Account;
 
 public class App
 {
